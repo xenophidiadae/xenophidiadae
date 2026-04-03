@@ -4,13 +4,13 @@
 
   <br/>
 
-  ## 💻 Tech Stack
+  ## Tech Stack
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
   <br/>
 
-  ## 📊 GitHub Stats xd
+  ## GitHub Stats
   
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=xenophidiadae&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Main Stats" />
 
@@ -24,7 +24,7 @@
 
   <br/>
   
-  ## 🐍 Contribution Snake
+  ## Snake xd
   <img src="https://raw.githubusercontent.com/xenophidiadae/xenophidiadae/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </div>
