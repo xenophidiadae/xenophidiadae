@@ -23,5 +23,8 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xenophidiadae&theme=dark&layout=compact" alt="Top Langs" />
 
   <br/>
+  
+  ## 🐍 Contribution Snake
+  <img src="https://raw.githubusercontent.com/xenophidiadae/xenophidiadae/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </div>
