@@ -10,9 +10,7 @@
 
   <br/>
 
-  ## 📊 GitHub Stats
-  
-## 📊 GitHub Stats
+  ## 📊 GitHub Stats xd
   
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=xenophidiadae&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Main Stats" />
 
