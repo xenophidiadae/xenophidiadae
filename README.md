@@ -1,11 +1,31 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/78/d3/9f/78d39f4f17f2947a2f0f1b37f49b8648.gif" width="600" alt="Header Gif">
-  <h1>qwe 👋</h1>
-</div>
-<div align="center">
-  
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=твой-ник&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=твой-ник&layout=compact&theme=tokyonight&langs_count=8" />
+  <br/>
+
+  ## 💻 Tech Stack
+  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+  <br/>
+
+  ## 📊 GitHub Stats
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=xenophidiadae&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Main Stats" />
+  
+  <br/>
+  
+  <img src="https://nirzak-streak-stats.vercel.app/?user=xenophidiadae&theme=dark&hide_border=false" alt="Streak Stats" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xenophidiadae&theme=dark&hide_border=false&layout=compact" alt="Top Langs" />
+
+  <br/>
+
+  ## 🐍 Contribution Snake
+  ![Snake animation](https://github.com/xenophidiadae/xenophidiadae/blob/output/github-contribution-grid-snake.svg)
 
 </div>
