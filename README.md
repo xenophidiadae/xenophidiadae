@@ -16,11 +16,11 @@
 
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xenophidiadae&theme=dark&count_private=true&v=2" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xenophidiadae&theme=dark&count_private=true" alt="Streak Stats" />
 
   <br/>
 
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xenophidiadae&theme=dark&layout=compact&count_private=true&v=2" alt="Top Langs" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xenophidiadae&theme=dark&layout=compact&count_private=true" alt="Top Langs" />
 
   <br/>
   
