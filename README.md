@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://i.pinimg.com/originals/78/d3/9f/78d39f4f17f2947a2f0f1b37f49b8648.gif" width="600" alt="Header Gif">
+  <img src="https://i.pinimg.com/736x/a3/00/f0/a300f08a005d228348e8a66873690ff4.jpg" width="600" alt="Header Gif">
 
   <br/>
 
